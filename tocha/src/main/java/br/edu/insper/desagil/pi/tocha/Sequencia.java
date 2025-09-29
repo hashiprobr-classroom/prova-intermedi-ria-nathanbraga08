@@ -25,3 +25,5 @@ public class Sequencia {
         return imagem;
     }
 }
+
+// a refatoração será por abstração de herança //
